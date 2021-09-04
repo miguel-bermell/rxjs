@@ -25,3 +25,5 @@ console.log("inicio");
 // interval$.subscribe(observer);
 timer$.subscribe(observer);
 console.log("fin");
+
+// Hola
